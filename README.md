@@ -27,7 +27,6 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 # 🛡️ **Badges**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=keras&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-FED300?logo=openai&logoColor=black)
@@ -216,8 +215,34 @@ Ready to join immediately and open to relocation.
 # 🤝 **Let's Connect**
 
 <p align="left">
-  <a href="https://linkedin.com/in/sudhakar-damarasingi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sudhakardamarasingi"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" /></a>
+
+ <!-- WhatsApp -->
+  <a href="https://wa.me/919000143330" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- Phone Call -->
+  <a href="tel:+919000143330" target="_blank">
+    <img src="https://img.shields.io/badge/Call%20Me-0A84FF?logo=call&logoColor=white" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:damarasingisudhakar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+
+
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sudhakar-damarasingi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Sudhakardamarasingi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" />
+  </a>
+
 </p>
 
 ---
